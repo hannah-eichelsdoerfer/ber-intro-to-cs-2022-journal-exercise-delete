@@ -4,14 +4,17 @@
 
 #### Prepare
 
-Unsure about gitHub? > Review [Version Control with Git and GitHub](https://redi-school.github.io/ber-dcp-intro-to-computer-science/docs/git/git_and_github_desktop/) lesson.
+Unsure about gitHub?
+→ Review [Version Control with Git and GitHub](https://redi-school.github.io/ber-dcp-intro-to-computer-science/docs/git/git_and_github_desktop/) lesson.
 
-In GitHub Desktop clone this repository: https://github.com/ReDI-School/ber-intro-to-cs-2021-html-journal
+In `GitHub Desktop` clone this repository: https://github.com/ReDI-School/ber-intro-to-cs-2021-html-journal
 
-Under "How are you planning to use this fork?"
-Select For my own purposes
-
-![clone](images/clone.png)
+<details>
+  <summary>"How are you planning to use this fork?"</summary>
+    
+    Select For my own purposes
+    ![clone](images/clone.png)
+</details>
 
 #### See your changes
 
@@ -76,6 +79,11 @@ Select For my own purposes
 - Merge the pull request
 - Victory!
 
+## Further Resources:
+
 ### Publish to github pages
 
+- so far our website is only a local file
+- to share a link that others can visit we need to host our pages somewhere, luckily gitHub has a option called `GitHub Pages` to host our repository files on the internet
 - now every time you push to your main branch, your files will be deployed to github pages
+  [Read about getting started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
