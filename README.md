@@ -4,12 +4,21 @@
 
 #### Prepare
 
+Unsure about gitHub? > Review [Version Control with Git and GitHub](https://redi-school.github.io/ber-dcp-intro-to-computer-science/docs/git/git_and_github_desktop/) lesson.
+
 In GitHub Desktop clone this repository: https://github.com/ReDI-School/ber-intro-to-cs-2021-html-journal
 
 Under "How are you planning to use this fork?"
 Select For my own purposes
 
 ![clone](images/clone.png)
+
+#### See your changes
+
+- you can open the folder in your finder/explorer and double click on index.html (disadvantage: every time you make changes you have to reload the page)
+- `Live Server` is a great tool to see your changes in real time (you should have installed it at the beginning)
+- Every time you save your website will automatically get the newest changes
+- To start the Live Server either right click in the root index.html file and select **Start Live Server** or click on **Go Live** in the bar at the bottom - when it is running it will say `Port: 5500` there - always leave it running to see the changes.
 
 ### Add HTML to display general journal information and clickable list of years
 
@@ -51,17 +60,9 @@ Select For my own purposes
 - [ ] Add HTML markup to:
   - [ ] Display a link to the journal page for 25th march 2021 (`2021/march/25.html`)
 
-### How to test your HTML Markup
-
-- Click on the file in VsCode
-- Right-click on the file and select `Copy Path`
-- Open your browser
-- Paste the path in the browser and press the `Enter` key on your keyboard
-- You can update the file in VsCode and refresh the browser page to see the results of your updates
-
 ### Push (upload) your work to github
 
-- From the VsCode menu bar, click on `Terminal`
+- In GitHub Desktop create a new branch
 - Click on `New Terminal`
 - Run the following command to create a new branch
   - `git checkout -b my-html-work`
