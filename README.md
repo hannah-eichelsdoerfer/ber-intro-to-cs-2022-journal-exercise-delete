@@ -85,5 +85,4 @@ In `GitHub Desktop` clone this repository: https://github.com/ReDI-School/ber-in
 
 - so far our website is only a local file
 - to share a link that others can visit we need to host our pages somewhere, luckily gitHub has a option called `GitHub Pages` to host our repository files on the internet
-- now every time you push to your main branch, your files will be deployed to github pages
-  [Read about getting started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+  [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)] [Read about getting started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
